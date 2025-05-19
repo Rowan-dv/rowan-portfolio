@@ -9,7 +9,7 @@ AI 실험실이자, 내가 기록을 남기는 숲입니다.
 무엇이든 만들 수 있다는 믿음으로,  
 실험하고, 배우고, 나누는 Creative Vibe Coder Rowan입니다.
 
-## �� Features
+##  Features
 
 - 반응형 디자인
 - 모던한 UI/UX
@@ -98,3 +98,5 @@ MIT License
 ## 👤 Author
 
 Rowan – Creative Vibe Coder & Enthusiast 
+
+문의: rowan.ai.dv@gmail.com 
